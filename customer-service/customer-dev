@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      database: ${CUSTOMER_DB:courierNepal_customer_db}
+      host: ${CUSTOMER_SERVICE_DBHOST:localhost}
+      port: ${CUSTOMER_SERVICE_DBPORT:27017}
