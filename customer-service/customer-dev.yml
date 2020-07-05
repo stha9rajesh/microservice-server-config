@@ -1,6 +1,7 @@
 spring:
   data:
     mongodb:
-      database: courierNepal_customer_db
       host: couriernepal-database
       port: 27017
+      database: courierNepal_customer_db
+      
