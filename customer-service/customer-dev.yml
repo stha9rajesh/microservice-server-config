@@ -5,5 +5,5 @@ spring:
         port: 27017
         database: courierNepal_customer_db
 server:
-  port: 8082      
+  port: 8083     
    
